@@ -1,6 +1,7 @@
+<div align="center">
 <h1 align="center">Hola, soy LuismynameDevs👋</h1>
-![Captura desde 2024-06-29 00-42-45](https://github.com/Luismyname/luismyname/assets/147148986/e4929a4a-0922-4959-9b7b-31c965a16c88)
-
+<img src="https://github.com/Luismyname/luismyname/assets/147148986/e4929a4a-0922-4959-9b7b-31c965a16c88>
+</div>
 
 <!--
 **Luismyname/luismyname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
